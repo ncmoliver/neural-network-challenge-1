@@ -1,6 +1,6 @@
 # Student Loan Repayment Model
 
-![logo of project file](logo.png)
+![logo of project file](/logo.png)
 
 ## Project Overview
 
