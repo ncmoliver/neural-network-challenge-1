@@ -64,6 +64,7 @@ The dataset can be downloaded here --> [student loan project dataset](https://st
 
 ## Conclusion
 
-- Data Preparation : Successfully preprocessed the data for training our neural network model.
+**Data Preparation** : Successfully preprocessed the data for training our neural network model.
+
 - Model Training: Built and trained a deep learning model on a dataset to predict student loan repayment based on `credit_ranking`
 - Model Evaluation: Achieved promising results in terms of accuracy and loss
