@@ -60,11 +60,11 @@ The dataset can be downloaded here --> [student loan project dataset](https://st
 
 ### Loan Repayment Predictions
 
-- The model had an overall accuracy of 75%. The model predicted the class 'student will not repay their loan' slightly higher recall and precision.
+The model had an overall accuracy of 75%. The model predicted the class 'student will not repay their loan' slightly higher recall and precision.
 
 ## Conclusion
 
 **Data Preparation** : Successfully preprocessed the data for training our neural network model.
 
-- Model Training: Built and trained a deep learning model on a dataset to predict student loan repayment based on `credit_ranking`
-- Model Evaluation: Achieved promising results in terms of accuracy and loss
+**Model Training**: Built and trained a deep learning model on a dataset to predict student loan repayment based on `credit_ranking`
+**Model Evaluation**: Achieved promising results in terms of accuracy and loss
