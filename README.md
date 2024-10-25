@@ -1,5 +1,7 @@
 # Student Loan Repayment Model
 
+![logo of project file](logo.png)
+
 ## Project Overview
 
 The project aims to determine if a student will repay their student loan based on credit ranking, to ultimately calculate an accurate interest rate.
